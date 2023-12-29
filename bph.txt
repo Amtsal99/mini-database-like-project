@@ -1,0 +1,10 @@
+NRP      : 5025231182
+Nama     : Udin
+No. Telp : 85322900129
+Jabatan  : Bendahara
+Password : Udin.99
+NRP      : 5025231183
+Nama     : Adun
+No. Telp : 85322900122
+Jabatan  : Bendahara
+Password : Adun.99
